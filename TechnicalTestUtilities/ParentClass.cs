@@ -6,4 +6,5 @@
     {
         public abstract double AnonymousMathematicalFunction(double argument1, double argument2);
     }
+
 }
